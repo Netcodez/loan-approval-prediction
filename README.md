@@ -27,11 +27,6 @@ loan_approval-prediction.py: Python script with the analysis code
 
 To run this analysis on your local machine, follow these steps:
 
-Clone this repository: git clone https://github.com/Netcodez/loan-approval-prediction.git
-Navigate to the project directory: cd loan-approval-prediction
-Install the required dependencies: pip install -r requirements.txt
-Run the analysis notebook: jupyter notebook loan-approval-prediction.ipynb
-
 ### Dependencies
 The following Python libraries are required to run the analysis:
 
